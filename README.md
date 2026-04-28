@@ -56,5 +56,7 @@ CSCE-676-Semester-Project/
 │
 ├──data_preprocess.py
 
+## Summary
 
+Overall we found that anomalies regarding the gender disparity within infection rates of valley fever- where the infected skews towards men - are primarily located in Kings, Kern, and Fresno county. Kings county in particular is noteworthy because all of the cases of valley fever in terms of male and female infection rates is all considered anamolous, suggesting that the infection among men in this particular county is much more severe compared to other counties.   
 
