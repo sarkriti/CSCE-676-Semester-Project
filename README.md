@@ -34,6 +34,27 @@ numpy: 1.25.2
 matplotlib: 3.8.4
 scikit-learn (sklearn): 1.5.0
 
+## Structure
+
+CSCE-676-Semester-Project/
+│
+├── README.md                   # Project overview and documentation
+│
+├── Checkpoints/
+│   ├── 01_CSCE676_Project_Checkpoint2.ipynb                   
+│   ├── 02_ProjectCheckpoint1.ipynb              
+│
+├── Datasets/
+│   ├── 01_gender_disparity_dataset.csv           
+│   ├── 02_odp_idb_2001-2023_ddg_clean.csv
+│   ├── 03_odp_idb_2001-2023_ddg_compliant.csv    
+|
+├── Notebooks/
+│   ├── 01_data_preprocess.ipynb           
+│   ├── 02_main_notebook.ipynb 
+├── requirements.txt
+│
+├──data_preprocess.py
 
 
 
